@@ -1,3 +1,6 @@
+This repository contains the source code for the info website that gives information about our Major Project: "Deep Learning based Malware Detection with adversarial robustness"
+
+## Installation
 Follow these steps:
 
 ```sh
