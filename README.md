@@ -2,10 +2,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the project
-git clone
+git clone git@github.com:SuprimDevkota/Adversarial_Detection_Info_Website.git
 
 # Step 2: Navigate to the project directory.
-cd <PROJECT_NAME>
+cd Adversarial_Detection_Info_Website/
 
 # Step 3: Install the necessary dependencies.
 npm i
